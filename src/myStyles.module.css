@@ -1,0 +1,14 @@
+.mentorForm{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.navbar{
+    display: flex;
+    align-self: auto;
+    margin: 10px;
+    padding: 10px;
+}
+.stumen{
+    padding: 10px
+}
